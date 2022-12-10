@@ -25,6 +25,6 @@ const setData=(result)=>{
 
 }
 fun();
-getUser.addEventListener("click",()=> fun());
+getuser.addEventListener("click",()=> fun());
 
 
